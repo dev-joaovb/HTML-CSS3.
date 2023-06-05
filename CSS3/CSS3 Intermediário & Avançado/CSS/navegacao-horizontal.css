@@ -1,0 +1,93 @@
+/* Navegação Vertical  */
+
+/*
+ul {
+    border: 1px solid red;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    padding: 5px 20px;
+    background: url(../imagens/seta.png) no-repeat left center;
+}
+
+*/
+
+/*ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+ul a{
+    border: 1px solid gold;
+    width: 200px;
+    height: 40px;
+    display: block;
+    color: black;
+    text-decoration: none;
+    text-indent: 40px;
+    line-height: 40px;
+    background: #f7b600 url(../imagens/menu.png) no-repeat left center;
+}
+
+a:hover{
+    background-position: center bottom;
+    background-color: #f99200;
+    color: #fff;
+}
+
+#home #navegacao .home a,
+#sobre #navegacao .sobre a,
+#servicos #navegacao .servicos a,
+#noticias #navegacao .noticias a,
+#contato #navegacao .contato a{
+    background-position: right bottom;
+    background-color: #f99200;
+    color: #fff;
+}
+*/
+
+
+/* Barra de navegação horizontal  */
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: #159cb0 url(../imagens/fundo-horizontal.png) repeat-x;
+    float: left;
+}
+
+ul li{
+    float: left;
+}
+
+ul a{
+    display: block;
+    padding: 0 2em;
+    line-height: 2.5em;
+    text-decoration: none;
+    color: #fff;
+    background: url(../imagens/divisor.png) repeat-y left top;
+}
+
+ul .primeiro a{
+    background: none;
+}
+
+ul a:hover{
+    color: #085662;
+    background: #44cade;
+}
+
+#casa #navegacao-horizontal .casa a,
+#apartamento #navegacao-horizontal .apartamento a,
+#cidades #navegacao-horizontal .cidades a,
+#valores #navegacao-horizontal .valores a,
+#feedback #navegacao-horizontal .feedback a{
+    background: #085662;
+    color: #fff;
+}

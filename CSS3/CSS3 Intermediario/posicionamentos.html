@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title >Posicionamento</title>
+
+    <style type="text/css">
+
+        body{
+            background: #007fc7;
+        }
+        
+        #container{
+            background: #FFF;
+            width: 800px;
+            margin: 10px auto;
+            padding: 10px;
+            position: relative;
+        }
+
+        
+        p{
+            width: 300px;
+        }
+
+        .fixed{
+            border: 1px solid red;
+            background: #f2f2f2;
+            position: fixed;
+            bottom: 0px; /* exemplo de chat */
+            right: 20px;
+        }
+
+        .absolute{
+            border: 1px solid red;
+            background: #f2f2f2;
+            position: absolute;
+            top: 0px;
+            right: 20px;
+        }
+
+        .relative{
+            border: 1px solid red;
+            position: relative;
+            top: 80px;
+            right: 80px;
+        }
+
+    </style>
+
+</head>
+<body>
+    
+    <div id="container">
+        <h1>Posicionamentos</h1>
+
+        <p>
+            P1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam eaque sed officia, magni recusandae qui! Iure voluptates dolore repellat! Quidem vel reprehenderit deserunt iste nihil, quae at eos est ex!
+        </p>
+
+        <p class="fixed">
+            P2 Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, odio doloribus amet dolore magni assumenda omnis ducimus quod ratione odit ipsa atque earum tenetur nisi dolorem? Ullam, ipsa ut. Ullam!
+        </p>
+
+        <p>
+            P3 Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ipsam exercitationem eos corrupti! Cupiditate quia dolores distinctio eius, delectus sunt nihil aperiam, non dolorem nisi dolor fugit ipsa sapiente sit!
+        </p>
+    </div>
+
+</body>
+</html>

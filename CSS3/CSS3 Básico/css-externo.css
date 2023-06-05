@@ -1,0 +1,10 @@
+.texto{
+	color: black;
+	background: orange;
+}
+
+.caixa{
+	border: 1px inset blue;
+	padding: 10px;
+	margin: 2px;
+}

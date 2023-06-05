@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"back",
+				"background-attachment\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"te",
+				"Texto"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"r",
+				"rodape"
+			],
+			[
+				"p",
+				"produto"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"s",
+				"strong\tTag"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"Br",
+				"br"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"t",
+				"tr\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"m",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/curso/MeuProjetoHTML/index.html",
+			"settings":
+			{
+				"buffer_size": 533,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/curso/ProjetoCSS/css-externo.css",
+		"/C/xampp/htdocs/curso/MeuProjetoHTML/copadomundo.html",
+		"/C/xampp/htdocs/curso/ProjetoCSS/estilos-textos.html",
+		"/C/xampp/htdocs/curso/ProjetoCSS/Tamanho-de-texto.html",
+		"/C/xampp/htdocs/curso/ProjetoCSS/Bordas.html",
+		"/C/xampp/htdocs/curso/ProjetoCSS/Bordas",
+		"/C/xampp/htdocs/curso/ProjetoCSS/div-spam.html",
+		"/C/xampp/htdocs/curso/ProjetoCSS/classes_ids.html",
+		"/C/xampp/htdocs/curso/ProjetoCSS/inline_style.html",
+		"/C/Users/NB-DELMA/Desktop/www/Test.html",
+		"/C/xampp/htdocs/curso/ProjetoFinalHtml/index2.html",
+		"/C/xampp/htdocs/curso/ProjetoFinalHtml/quem-somos.html",
+		"/C/xampp/htdocs/curso/ProjetoFinalHtml/contato.html",
+		"/C/xampp/htdocs/curso/ProjetoFinalHtml/contato",
+		"/C/xampp/htdocs/curso/ProjetoFinalHtml/Imagens/arquivos-necessarios-projetos-unes/logo.png",
+		"/C/xampp/htdocs/curso/ProjetoFinalHtml/Imagens/arquivos-necessarios-projetos-unes/capa.png",
+		"/C/xampp/htdocs/curso/ProjetoFinalHtml/Imagens/arquivos-necessarios-projetos-unes.RAR",
+		"/C/xampp/htdocs/curso/ProjetoFinalHtml/Imagens/._fundo.png",
+		"/C/xampp/htdocs/curso/ProjetoFinalHtml/Imagens/arquivos-necessarios-projetos-unes.zip",
+		"/C/xampp/htdocs/curso/copadomundo.html",
+		"/C/xampp/htdocs/curso/index.html",
+		"/C/xampp/htdocs/curso/projeto.html",
+		"/C/Users/NB-DELMA/Desktop/Projeto aula/CSS/estilo.css",
+		"/C/Users/NB-DELMA/Desktop/ProjetoWeb/Projeto Web/index.html",
+		"/C/Users/NB-DELMA/Desktop/Projeto aula/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/curso/MeuProjetoHTML/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index2.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

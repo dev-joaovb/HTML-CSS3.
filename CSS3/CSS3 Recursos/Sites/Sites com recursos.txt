@@ -1,0 +1,32 @@
+Transparencia:
+
+https://www.w3schools.com/css/css3_colors.asp
+
+Degradês:
+
+https://www.w3schools.com/css/css3_gradients.asp
+
+Sombra de caixa:
+
+https://www.w3schools.com/cssref/css3_pr_box-shadow.php
+
+Sombra de textos:
+
+https://www.w3schools.com/cssref/css3_pr_text-shadow.php
+
+Animações:
+
+https://www.w3schools.com/css/css3_animations.asp
+
+Direções:
+
+https://www.w3schools.com/cssref/css3_pr_animation-direction.php
+
+Transições:
+
+https://www.w3schools.com/css/css3_transitions.asp
+
+
+Site para converter para prefixos (tags novas para serem compatíveis com browsers antigos)
+
+https://autoprefixer.github.io/

@@ -1,0 +1,41 @@
+/* Estilizando Formularios */
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+fieldset{
+    padding: 1em;
+    border: 1px solid #ccc;
+    background: #f8f8f8;
+    margin: 1em 0;
+}
+
+legend{
+    font-weight: bold;
+}
+
+label{
+    display: block;
+    cursor: pointer;
+}
+
+input[type="text"]{
+    width: 20em;
+    /* Os colchetes [] servem para os tipos de configuração da tag por exemplo acima o "text" */
+
+    /* Importante saber, essa configuração não funciona em navegadores antigos, então é importante ficar atento */
+}
+
+textarea{
+    width: 20em;
+    height: 10em;
+}
+
+input.radio, input.checkbox, input.submit{
+    width: auto;
+}
+
+.radio{
+    margin-right: 0.4em;
+}

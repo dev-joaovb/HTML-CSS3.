@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Novas tags de input do html 5</title>
+
+    <!-- Estilo customizado -->
+    <link rel="stylesheet" href="./CSS/estilo.css">
+
+
+</head>
+<body>
+
+    <form>
+
+        <!-- Novos inputs e atributos HTML5 -->
+
+        <!-- Nome -->
+        <label for="nome">Nome</label>
+        <input type="text" id="nome" required autofocus>
+
+        <!-- O required serve para avisar o usuário que aquele campo deve ser preenchido -->
+
+        <!-- O autofocus serve para forcar um campo de formulário assim que recarregar a página -->
+        <br><br>
+
+        <!-- Email -->
+        <label for="email">Email</label>
+        <input type="email" id="email" required="required">
+        <br><br>
+
+        <!-- Numero -->
+        <label for="numero">Número</label>
+        <input type="number" id="numero" required="required" min="5" max="10" step="2">
+        <!-- os valores Min e Max no Type="Numero", servem pra controlar o numero minima e maximo e combinado com required, o campo avisará o limite de cada valor no campo -->
+        <!-- O valor step, significa que o numero utilizado no campo será passado por aquele valor ate o valor máximo, ou seja, no exemplo está 2, significa que de 2 em 2 será adicionado um valor -->
+        <br><br>
+
+        <!-- URL -->
+        <label for="url">URL: </label>
+        <input type="url" id="url" required="required" placeholder="ex: http://.....">
+        <br><br>
+
+        <!-- Pesquisa -->
+        <label for="pesquisa">Pesquisa</label>
+        <input type="search" id="pesquisa" required="required">
+        <!-- Barra de pesquisa -->
+        <br><br>
+
+        <!-- Range -->
+        <label for="range">Range</label>
+        <input type="range" id="range" required="required" min="1" max="5" value="1">
+        <!-- A ideia do min e max aqui no Range é basicamente a mesma coisa na numeração, a barra só irá avançar de acordo com o valor minimo até o máximo -->
+        <!-- O value usado é para o valor inicial do range -->
+        <br><br>
+
+        <!-- Date -->
+        <label for="data">Data</label>
+        <input type="date" id="data" required="required">
+        <br><br>
+
+        <!-- Cor -->
+        <label for="cor">Cor</label>
+        <input type="color" id="cor" required="required">
+        <br><br>
+
+        <input type="submit" name="" value="Enviar">
+
+    </form>
+    
+</body>
+</html>

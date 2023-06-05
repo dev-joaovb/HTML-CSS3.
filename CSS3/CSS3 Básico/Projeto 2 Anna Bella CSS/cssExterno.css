@@ -1,0 +1,42 @@
+body{
+	background: #d2d2d2c1 url('bancoImagens/fundo.png');
+	font: 16px Arial, helvetica, sans-serif;
+}
+
+#principal{
+	width: 900px;
+}
+
+.cor1{
+	background: #D8D8D8;
+	padding: 20px;
+	color: #8181F7;
+}
+
+.cor2{
+	color: gray;
+	padding: 15px;
+	background: white;
+}
+
+a{
+	color: #8181F7;	
+	text-decoration: none;
+}
+
+.imagens{
+	width: 500px;
+	height: 320px;
+	border-color: #D8D8D8;
+	border: inset;
+	border-width: 10px;
+}
+
+h1{
+	color: gray;
+	font-size: 1.2em;
+}
+
+.centralizar{
+	text-align: center;
+}

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox - Flexible box layout</title>
+
+    <style type="text/css">
+        #conteudo{
+            background: #dcdcdc;
+            height: 600px;
+            display: flex;
+
+            /*  valores flex-direction
+            row|row-reverse|column|column-reverse
+            */
+            /*flex-direction: row;*/
+
+            /* valores flex-wrap 
+            nowrap|wrap|wrap-reverse
+            */
+            /*flex-wrap: nowrap;*/
+
+            /* valores justify-content
+            flex-start|flex-end|center|space-between|space-around
+            */
+            /*justify-content: space-around;*/
+
+            /*
+            stretch|center|flex-start|flex-end|baseline
+            */
+            /*align-items: baseline;*/
+
+        }
+
+        .item{
+            width: 100px;
+            height: 100px;
+            background: #fff;
+            border: 1px solid gray;
+            margin: 10px;
+
+            /* Define a proporção de espaço ocupado por um
+            item */
+            flex-grow: 0;
+
+            /* Define a capacidade de redução de tamanh do item */
+            flex-shrink: 1;
+
+            /* Indica tamanho inicial do flex item antes da distribuição do espaço restante */
+            flex-basis: auto;
+        }
+
+        .item1{
+            /*flex-grow: 1;*/
+            /*flex-grow: 1;*/
+        }
+
+        .item2{
+            /*flex-grow: 2;*/
+            /*flex-grow: 2;*/
+        }
+
+        .item3{
+            /*flex-grow: 2;*/
+            /*flex-grow: 5;*/
+        }
+
+        /*
+
+        .ordem1{
+            order: 1;
+        }
+
+        .ordem2{
+            order: 2;
+        }
+
+        .ordem3{
+            order: 3;
+        }
+
+        .ordem4{
+            order: 4;
+        }
+
+        .ordem{
+            order: -1;
+        } */
+
+    </style>
+
+
+</head>
+<body>
+
+<h1>Flexbox</h1>
+<div id="conteudo">
+    <div class="item item1">01</div>
+    <div class="item item2">02</div>
+    <div class="item item3">03</div>
+    <div class="item">04</div>
+</div>
+
+</body>
+</html>
